@@ -6,7 +6,8 @@ Buat aplikasi sederhana dengan ketentuan:
 1. Buatlah 1 tabel dengan nama **tb_user** menggunakan MySql.
 2. Field pada **tb_user**, minimal *id_user* (autoincrement), *name*, *email*, *password* (terenkripsi MD5), dan *gendre* (Laki/Perempuan).
 3. Buatlah 1 halaman untuk mengelola **tb_user** tersebut, yaitu untuk *Create, Read, Update, Delete*.
-4. Buatlah 1 repository private untuk mengerjakan test ini. Kemudian jika sudah selesai, silakan invite
+4. Buatlah 1 repository private untuk mengerjakan test ini. Kemudian jika sudah selesai, silakan invite itd@ticini.com sebagai colaborator.
+5. Jangan lupa confirmasi  juga melalui email itd@ticini.com, dengan subject TECHNICAL_TEST_{NAMA}
 
 
 ## Tips
